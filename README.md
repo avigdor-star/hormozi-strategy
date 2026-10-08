@@ -3,9 +3,12 @@
 A structured, checked set of notes on three business books by Alex Hormozi, plus a Claude skill that coaches with them and a calculator that never hides a choice the books leave open.
 
 - **Books:** *$100M Offers*, *$100M Leads*, *$100M Money Models*.
-- **Not affiliated with or endorsed by the author or his companies.** The books are not included and must be bought separately. Names and titles belong to their owners.
+- **Unofficial. Not affiliated with, endorsed by, or reviewed by the author or his companies.** He has not seen or approved this work. The books are not included and must be bought separately. Names and titles belong to their owners.
 - **Quotes:** long book passages have been removed on purpose. Short terms and labels stay. Page and chapter locators stay, so you can check any point in your own copy.
 - **Entry IDs** (OF-###, LD-###, MM-###) refer to a private verification ledger that is not published, for copyright reasons. The conclusions, flags and maths are published.
+
+## The author's stated business model
+The books are the front door to his investment business. By his own account he does not sell coaching or courses. He earns owners' trust with the books, then invests in their companies and takes an equity stake. Leads says he buys equity in growing, profitable, bootstrapped businesses making over $1M a year in profit (EBITDA). Offers puts the target at roughly $3M–$10M or more in yearly revenue. Read the advice with that in mind: the books serve his deal flow, and the author's numbers are treated here as hypotheses to test, not promises.
 
 ## What is here
 | Folder | What |
