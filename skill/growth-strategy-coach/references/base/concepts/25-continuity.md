@@ -1,0 +1,74 @@
+# Concept 25 · Continuity offers (Bonus, Discount, Waived Fee)
+
+**Books:** Money Models (Section V, the home). Offers: bonuses and anchoring (concept 08). Leads: churn and referral growth equation (concept 17).
+**Built from entries:** MM-053–MM-062.
+**Tag key:** [stated] · [figure] · [derived] · [FLAG] · [claim] · [our note].
+
+## What continuity is
+Continuity Offers give ongoing value in return for ongoing payments until the customer cancels; they raise the profit from each customer and give one last thing to sell, so you sell once and are paid repeatedly. Epigraph: a sheep can be sheared for its whole life, but it can be skinned only once. [stated, MM-053]
+- Where it fits: when customers keep getting value, ongoing payments probably make sense, and paying forever for a single-day workshop makes no sense; offering a single price to provide a service forever is a mistake. Continuity can attract, upsell/downsell, or re-engage. [stated]
+- **The comparison [stated]:** a $1,000 thing to 100 people: 10 buy = $10,000. As $50/month: 40 of 100 buy; kept 20 months = $1,000 each → "$2,000 now and $40,000 over time." [derived] 40 × $50 = $2,000 first month; 40 × $50 × 20 = **$40,000 total, including that first month**; 4x the customers to upsell later. [FLAG] Assumes all 40 stay 20 months; the book's own churn data (10.7% monthly for monthly billing, concept 24) would leave about 10% after 20 months (0.893^20). Not reconciled. The 40-of-100 and 10-of-100 are illustrative.
+- Pros/cons [stated]: continuity attracts more customers than something expensive, but you earn much less right now and may be short of cash today. **Putting continuity offers last gets every advantage.**
+- Three offers: Continuity Bonus, Continuity Discount, Waived Fee. The author combines bonuses, discounts and fee waivers to win the first purchase and keep customers buying.
+- **When to place it:** [FLAG] "last" (p.144, p.169) vs offering it at the first sales conversation (gym story) vs "wherever and however you want" (p.144) vs "after the first thirty days, and that's OK" (p.176) vs "There are no rules" (p.178). "Last" is the author's usual order, not a rule.
+- Author note [claim]: in the author's experience, no successful continuity business relies on a membership offer sold alone; continuity is hard to advertise profitably, because nobody wants a recurring commitment to something untried. Boxed: nearly every business the author built has run on continuity.
+
+## 1. Continuity Bonus (MM-054–057)
+**Definition:** A Continuity Bonus is a great extra given to a customer who signs up today, usually worth more than the first continuity payment. That is the whole idea. Bonus = adding value; discount = lowering costs; "we want to do both." Add "a dash of urgency." Offer the bonus as a standalone purchase or only with the continuity (either works).
+**How it hits 30-day profit [stated]:** first the big-cash attraction, upsell and downsell offers; then continuity gets a little cash from first-month payments; then offer buyers a discount on prepaying more months.
+**Gym story [claim]:** before: 34 of 100 signed up for the challenge, 17 converted to members. After: only 15 take the challenge, but **40 go straight into continuity**; about 8 of those 40 take the six-month prepay. [derived] 40 ÷ 17 = **2.35x** members; total sign-ups 34 → 55 (+62%); 8 of 40 = 20% prepay. The author says "you tripled membership sales."
+- [FLAG] 2.35x counts only those who went straight into continuity; the book gives no data on the 15 challenge sign-ups. If half convert as before, members ≈ 47.5 (2.8x); counting all 55 sign-ups against 17, 3.2x. "Not 3x" holds only on the strictest reading. The figure shows $600 and $200/MO but the text gives no prices for this gym's offer; don't treat them as this gym's prices.
+**Examples (MM-055):** pet food ($800 of dog toys free with $59/month); service accelerator ($1,000 free with a $100/month membership; VIP community); digital product (past 40 newsletters "valued at $15,880" with $399/mo after a 30-day trial; lifetime discount to $299/month if you pay today). [derived] $15,880 ÷ 40 = $397; the book doesn't explain the $15,880. Anchors: $800 = 13.6 months of fee; $1,000 = 10 months.
+**Rules:** "Focus on the bonus, not the membership." Bonuses work like upsells (more of the same, complementary, upgrade). Keep bonuses related to the core offer. Make bonuses things you already have and do (past newsletters, onboarding). Physical bonuses on digital products and vice versa often lower acquisition cost more than the bonus costs. **"Use Realistic Bonus Pricing"**: don't make up ridiculous values; anchor real prices. **Titles** (silver, gold, diamond) after 3, 6, 12 months [claim: a friend's customers cared more about the title than any other bonus]. a free-bonus framing: join as a member for $200 and the $1,000 program comes at no cost vs a steep-discount framing: the $1,000 program costs $1 for members. Anchoring script: sell the bonus's benefits first; ask whether they want to learn how to get it free; tell them VIP members get everything as a free joining gift, or they can simply buy it for $XXX, and ask which they prefer. To force everyone into continuity, make bonuses available only to members.
+- [FLAG] "Slap a price on" required onboarding and valuing 40 newsletters at the monthly price are the anchors the same page warns against; substantiate every stated value (compare giveaways, concept 22). [FLAG: ethics] A bonus free or for $1 must match what is actually sold.
+**Standalone price vs continuity (MM-056, figure) — HIGH IMPACT:**
+| To get this share to choose continuity | Standalone offer at | Example (standalone → "/mo") vs $199/mo membership |
+|---|---|---|
+| 50% | 1.33x more | $399 ($266/mo) |
+| 60% | 1.66x more | $499 ($333/mo) |
+| 70% | 2x more | $599 ($399/mo) |
+| 80% | 2.33x more | $699 ($466/mo) |
+| 90% | 2.66x more | $799 ($532/mo) |
+- Principle: A lower standalone price (relative to the continuity price) pulls more buyers to it; a higher one pushes more to continuity. "I've tested this a ton"; people pay 33% more to avoid continuity: half of buyers will still pick a one-time purchase that costs 33% more [claim]. Summary: To have half of buyers choose the one-time option, price it 33% higher than continuity.
+- **[FLAG: the "×" applies to the monthly equivalent, not the standalone price.]** [derived] In every row "/mo" = standalone ÷ 1.5; multiples = "/mo" ÷ $199 (1.34, 1.67, 2.00, 2.34, 2.67; the book prints 1.33, 1.66, 2, 2.33, 2.66). The standalone itself ÷ $199 = 2.0, 2.5, 3.0, 3.5, 4.0. The text then says that the price is "more expensive" by 1.33x to 2.66x relative to the first month (multiple or increase is not stated) and "33% above your continuity," but the examples are 2.0x the first month. Possible reading: a six-week (1.5-month) standalone product; the book does not say. **Ask which base to use: (a) standalone ÷ first-month continuity price, or (b) standalone's monthly equivalent ÷ continuity price.** The chart (starts near 1.25x at 50%, no data points) is a rule of thumb.
+**Bulk prepay and commitments (MM-057):** "buy five months get one free": only **1 in 8** has to take the upsell to raise 30-day cash by 50% ([derived ✓] 0.875M + 0.625M = 1.5M; prepayer gets 6 months for 5 = 16.7% off). [FLAG] It is cash, not profit (ignores delivery cost). "The laws of discounting apply." Commitments traded for bonuses: only give the bonus to those who commit to 3–6–12+ months: fewer sales, more committed customers. When continuity serves as the attraction offer, advertise the giveaway rather than the thing sold.
+
+## 2. Continuity Discount (MM-058–060)
+**Definition:** Products or services are given free when the customer agrees to buy more of them over time. Fits internet, pool cleaning, gym memberships, landscaping, anything rentable. Trash story [claim]: a year free for a five-year contract. Needs: how you apply the discount, and your cancellation policy.
+**Four ways to apply the discount (figures):**
+| # | Way | Mechanics | Notes |
+|---|---|---|---|
+| 1 | Up front | free time first, then the contract term | works where contracts are enforced (cell, storage, real estate, anything with collateral); skip if churn is high; "delays cash" |
+| 2 | At the end | contract first; free time earned if every payment is on time | "they earn their free time" |
+| 3 | Spread over time | e.g., 3 months free of 12 at $200 = $600 → $50/month discount ([derived] customer pays $150 × 12 = $1,800); can keep the discount for life if all payments are on time. Figure uses $1,000/mo, one month free of four = $750/mo (also 25%) | [FLAG] figure and text use different examples |
+| 4 | After the first 1–2 payments | "first and last month," "last month up front," or an activation fee first | collects cash for advertising and verifies a valid payment form |
+Summary: Discounting early wins more customers but may bring more cancellations; discounting late wins fewer customers but with fewer cancellations; spreading the discount evenly keeps cash coming in while still giving the full discount.
+**Important notes (MM-059):**
+- **"Highest Value Per Word Note":** bill every four weeks, not monthly: 13 cycles vs 12 months = **8.3%** more annually; with 20% margins, the annual profit jumps by 41% ([derived] 41.7%). [FLAG: transparency/legal] An 8.3% annual price increase presented as a billing-cadence change; customers should be told the actual annual cost; recurring-billing disclosure rules vary. "The same number of people buy" has no data.
+- **Extend the term, don't eat into it:** three months free on a year → pay 12 and get 15 (20% off) rather than pay 9 of 12 (25% off) ([derived]); can feature-downsell a shorter term.
+- **3% processing fee:** The author says no one has ever walked away from a purchase over a processing fee. [claim] On a 10% margin, +3% = +30% profit. [FLAG: fees] Surcharge/fee-disclosure rules vary by place and card network.
+- **Two forms of payment:** offer to waive the 3% fee if they give a second payment method (expired/insufficient funds are the failure causes). **Get ACH if you can.**
+- **Gift cards:** the discounted time as a gift card usable after the first three payments, giftable ("a lead magnet"); many people just forget to redeem it, which turns into a full-price sign-up. [FLAG: ethics] relying on forgotten discounts conflicts with Note 6.
+- **Lifetime discount at your most common churn point:** make customers earn it by staying past X (the month your average customer drops off). [FLAG] "most common" (mode) vs "average" (mean) vs "month of greatest churn": three wordings. [claim] A rice company: one-time price / 5% off subscription / 15% off after five straight months.
+**Cancellation (MM-060):** have a policy ahead of time (30–60 days notice, cancellation fees, cancel anytime). Favorite: **cancellation fee equal to the discount they agreed to get** ($600 discount → $600 to cancel). Make sure customers know how to cancel. **Exit interview:** let them vent; "Get more angry about the problem than them"; solve it or rollover upsell. The author offers to waive the cancellation fee if they come in and say what could be improved. [claim] "I routinely save a third." Light terms = more sign-ups, more leaving; harsher = fewer sign-ups, fewer leave.
+- [FLAG] The fee-equals-discount rule doesn't say whole committed discount or the part used; with a spread discount a full-fee rule can exceed the discount received ([derived] cancel after month 5: pays $750 + $600 = $1,350 vs $1,000 at the month-to-month rate). Enforceability of early-termination fees varies. [FLAG: ethics] "Get more angry" is a scripted emotion.
+
+## 3. Waived Fee Offer (MM-061)
+**Definition:** Charge a startup fee when someone joins a month-to-month program, typically **3–5x** the monthly rate; discount the whole fee if they commit for longer, but if they cancel during that commitment they pay it. People stay longer when quitting is pricier than staying.
+**Example:** commitment 12 months; monthly $1,000; fee $5,000. Option A: $5,000 + $1,000 first month, then $1,000/month, cancel any time. Option B: waive the $5,000 if you commit 12 months; pay it only if you break the commitment. [derived] A for a full year = $17,000; B = $12,000. **Break-even month k = T − F ÷ M:** staying is cheaper than quitting after month 7 (12 − 7 = 5 months = $5,000).
+**Rules:** presenting the fee: explain that getting them started costs money; a short test means they cover it, while a longer commitment means you cover it. **If more than 5% want to cancel early, look into it** ("nudge them, not handcuff"; no stated base). A smaller fee encourages month-to-month; larger encourages commitment; for more up-front cash use **1.5–3x** monthly. Drop the fee after the commitment is fulfilled ("they have earned their free cancellation"). Prefer for commitments of **a year and longer** (SEO, investing, weight loss). Customers initial the fee clauses. Cancellation fee donated to "a cause they are against" to keep customers extra motivated.
+- [FLAG: transparency/legal] The fee is described as covering costs yet the author also sets it high so buyers commit to avoid paying it; early-termination fees may be restricted when they exceed a reasonable estimate of actual loss; conflicts with Note 6 if the stated reason isn't the real one. [FLAG: ethics] The donation device is coercive and creates a promise to donate that must be kept; get legal advice. [FLAG] Typical 3–5x vs more-cash 1.5–3x overlap only at 3x. [FLAG] "nudge… not handcuff" vs the donation device; Note 3 ("give it back") vs cancellation/waived fees.
+
+## Conclusion (MM-062)
+Many businesses use Continuity Offers to draw customers in cheaply, which wrecks 30-day profits and makes profitable advertising hard. The author puts continuity last: begin with profitable Attraction Offers, then Upsell and Downsell Offers, then Continuity; those who accept are then upsold a discounted bulk quantity of time or product, and they move into continuity automatically once the bulk purchase is used up. Rewards (Bonus, Discount) vs punishment (Waived Fee); sometimes a more traditional contract is the better fit, and then the author prefers Waived Fee Offers.
+
+## Cross-book
+- Leads' referral growth equation (referred % − churned %) and LTGP depend on retention (concept 17).
+- Offers: bonuses, anchoring (concept 08); guarantees (concept 09).
+- Money Models: Rollover Upsell inside exit interviews (concept 23); Feature Downsell (concept 24) shortens a term.
+
+## Do not
+- Do not apply the pricing table's multiples to the standalone price without choosing the base.
+- Do not bill every four weeks without disclosing the annual cost.
+- Do not use the 40-in-100 or 3x claims as results.
+- Do not charge a cancellation or waived fee without a legal check and a clear, true reason.

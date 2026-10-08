@@ -1,0 +1,10 @@
+# Copyrighted books and text extracted from them: never publish
+source-material/
+framework/_work/
+
+# Scratch and system junk
+.DS_Store
+__pycache__/
+*.pyc
+coach-state/
+.env
